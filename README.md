@@ -16,7 +16,7 @@
 - ☁️ AWS Certified (Cloud Practitioner Essentials) | Google Data Analytics (In Progress)
 - 📊 Completed the **Deloitte Data Analytics Job Simulation** — worked with Tableau, Python & SQL on real forensic tech datasets
 - 🏗️ Built and deployed a live **Attendance Tracker Web App** → [attendance-tracker-two-flax.vercel.app](https://attendance-tracker-two-flax.vercel.app)
-- 🏆 Currently competing in **Amazon Smbhav Hackathon 6.0**
+- 🏆 **
 - 🤝 Active in my university's **Coding Club**
 - 📫 Reach me: **sontinani2478@gmail.com** | [LinkedIn](https://www.linkedin.com/in/sonti-preetham-a94b63326/)
 
